@@ -1,0 +1,93 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/heart---primary.py
+inputModule3:
+  class: File
+  path: python/heart-failure---primary.py
+inputModule4:
+  class: File
+  path: python/heart-failure-assoc---primary.py
+inputModule5:
+  class: File
+  path: python/congestive-heart-failure---primary.py
+inputModule6:
+  class: File
+  path: python/heart-failure-review---primary.py
+inputModule7:
+  class: File
+  path: python/heart-failure-education---primary.py
+inputModule8:
+  class: File
+  path: python/heart-failure-cardiac---primary.py
+inputModule9:
+  class: File
+  path: python/patient-heart-failure---primary.py
+inputModule10:
+  class: File
+  path: python/heart-failure-referred---primary.py
+inputModule11:
+  class: File
+  path: python/heart-failure-nurse---primary.py
+inputModule12:
+  class: File
+  path: python/heart-failure-administration---primary.py
+inputModule13:
+  class: File
+  path: python/heart-failure-first---primary.py
+inputModule14:
+  class: File
+  path: python/heart-failure-second---primary.py
+inputModule15:
+  class: File
+  path: python/heart-failure-third---primary.py
+inputModule16:
+  class: File
+  path: python/heart-failure-verbal---primary.py
+inputModule17:
+  class: File
+  path: python/heart-failure-telephone---primary.py
+inputModule18:
+  class: File
+  path: python/heart-failure-reporting---primary.py
+inputModule19:
+  class: File
+  path: python/heart-failure-dissent---primary.py
+inputModule20:
+  class: File
+  path: python/ventricular-heart-failure---primary.py
+inputModule21:
+  class: File
+  path: python/hypertensive-heart-failure---primary.py
+inputModule22:
+  class: File
+  path: python/heart-failure-pulmonale---primary.py
+inputModule23:
+  class: File
+  path: python/chronic-heart-failure---primary.py
+inputModule24:
+  class: File
+  path: python/cardiomyopathy-heart-failure---primary.py
+inputModule25:
+  class: File
+  path: python/right-heart-failure---primary.py
+inputModule26:
+  class: File
+  path: python/acute-heart-failure---primary.py
+inputModule27:
+  class: File
+  path: python/heart-failure-history---primary.py
+inputModule28:
+  class: File
+  path: python/hypertensive-heart-failure---secondary.py
+inputModule29:
+  class: File
+  path: python/renal-heart-failure---secondary.py
+inputModule30:
+  class: File
+  path: python/heart---secondary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
